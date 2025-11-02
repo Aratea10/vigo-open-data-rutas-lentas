@@ -7,7 +7,6 @@ Script PHP que consulta el dataset "Movilidad → rutas más saturadas" del cat�
 ## Configuración
 - Si el API requiere clave, crea `.env` con:
   VIGO_API_URL=https://<URL_DEL_ENDPOINT_JSON_O_API>
-  VIGO_API_KEY=<tu_clave_si_aplica>
 
 Si no hay clave, basta con definir `VIGO_API_URL`.
 
