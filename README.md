@@ -1,4 +1,11 @@
 # Vigo Open Data — Ruta más lenta (Movilidad)
+
+<div align="center">
+  
+  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+</div>
+
 Script PHP que consulta el dataset "Movilidad → rutas más saturadas" del catálogo de datos abiertos de Vigo, determina la ruta más lenta e imprime el resultado. Además, guarda la ruta más lenta en `log.txt` en cada consulta.
 
 ## Requisitos
